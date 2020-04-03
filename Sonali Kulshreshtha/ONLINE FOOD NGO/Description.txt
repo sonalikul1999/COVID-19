@@ -1,0 +1,9 @@
+Currently, during this pandemic many people in the country wants to
+help our nation. They wants to serve themselves in any way but we don’t
+want anyone to come out. Our idea is to develop a online web portal
+where anyone can register where he/she will be asked few questions
+like their name, email, phone number, how many lunch boxes they can
+provide (minimum one lunchbox) per day? and for how many days they
+can provide? Accordingly government emergency vehicles will collect
+all the lunchboxes from specific city or area and donate it to the
+most needy one.
